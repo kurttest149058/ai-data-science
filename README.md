@@ -1,4 +1,4 @@
 # ai-data-science
 Practice repository for learning Git, GitHub, and data science.
 
-today is a nice day!
+i have a class today
